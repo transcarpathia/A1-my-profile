@@ -1,9 +1,9 @@
 ## Welcome to Duo (George) Cheng's page
 
-Hello everyone, my name is Duo (George) Cheng, and I am currently a first year Bachelor of Information Technology student at RMIT. Here's some of my basic details below. <br> 
+Hello everyone, my name is Duo (George) Cheng, and I am currently a first year Bachelor of Information Technology student at RMIT. Here's some of my basic details below: <br> 
 In the mean time you are welcome to contact me at S3899254@student.rmit.edu.au.
 
-Student ID: S3899254<br>Previous education: Completion of VCE (Year 12) at Glen Waverley Secondary College in Melbourne's eastern suburbs.<br>Languages spoken (ranked from most to least): English, Chinese and German<br>One fun fact about myself: I've always enjoyed building cities inside games, especially on Cities Skylines by Paradox Interactive, as well as Sims 4 from EA.<br>Github page: https://github.com/transcarpathia/A1-my-profile/index.md
+Student ID: S3899254<br>Previous education: Completion of VCE (Year 12) at Glen Waverley Secondary College in Melbourne's eastern suburbs.<br>Languages spoken (ranked from most to least): English, Chinese and German<br>One fun fact about myself: I've always enjoyed building cities inside games, especially on Cities Skylines by Paradox Interactive, as well as Sims 4 from EA.<br>Github repository: https://github.com/transcarpathia/A1-my-profile/<br>Github personal page: https://transcarpathia.github.io/A1-my-profile/
 
 
 
