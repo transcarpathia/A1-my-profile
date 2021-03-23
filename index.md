@@ -1,7 +1,8 @@
 ## Welcome to Duo (George) Cheng's page
 
-Hello everyone, my name is Duo (George) Cheng and I am currently a first year student at RMIT, studying Bachelor of Information Technology.
-Student ID: S3899254
+Hello everyone, my name is Duo (George) Cheng, and I am currently a first year Bachelor of Information Technology student at RMIT.
+
+You can contact me at S3899254@student.rmit.edu.au
 
 ### Markdown
 
