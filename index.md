@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Duo (George) Cheng's page
 
-You can use the [editor on GitHub](https://github.com/transcarpathia/A1-my-profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello everyone, my name is Duo (George) Cheng and I am currently a first year student at RMIT, studying Bachelor of Information Technology.
+Student ID: S3899254
 
 ### Markdown
 
