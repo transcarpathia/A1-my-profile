@@ -1,4 +1,4 @@
-## <br>Welcome to Duo (George) Cheng's page
+## ![Image](IMG_8373.JPG)<br>Welcome to Duo (George) Cheng's page
 
 
 ### A bit about myself:
