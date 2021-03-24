@@ -6,7 +6,7 @@
 Hello everyone, my name is Duo (George) Cheng, and I am currently a first year Bachelor of Information Technology student at RMIT. Here's some of my basic details below: <br> 
 In the mean time you are welcome to contact me at S3899254@student.rmit.edu.au.
 
-Student ID: S3899254<br>Previous education: Completion of VCE (Year 12) at Glen Waverley Secondary College in Melbourne's eastern suburbs.<br>Languages spoken (ranked from most to least): English, Chinese and German<br>One fun fact about myself: Apart from IT, I also have an active interest in reading the history of Central and Eastern Europe from 1500s, as reflected by my name, Transcarpathia, which is a region in western Ukraine, formerly be part of Austria-Hungary before WWI, and Poland before WWII.<br>Github repository: https://github.com/transcarpathia/A1-my-profile/<br>Github personal page: https://transcarpathia.github.io/A1-my-profile/
+Student ID: S3899254<br>Previous education: Completion of VCE (Year 12) at Glen Waverley Secondary College in Melbourne's eastern suburbs.<br>Languages spoken (ranked from most to least): English, Chinese and German<br>One fun fact about myself: Apart from IT, I also have an active interest in reading the history of Central and Eastern Europe from 1500s, as reflected by my GitHub username, Transcarpathia, which is a region in western Ukraine, formerly part of Austria-Hungary before WWI, and Poland before WWII.<br>Github repository: https://github.com/transcarpathia/A1-my-profile/<br>Github personal page: https://transcarpathia.github.io/A1-my-profile/
 
 
 
