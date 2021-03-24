@@ -1,4 +1,4 @@
-## Welcome to Duo (George) Cheng's page
+## <br>Welcome to Duo (George) Cheng's page
 
 
 Hello everyone, my name is Duo (George) Cheng, and I am currently a first year Bachelor of Information Technology student at RMIT. Here's some of my basic details below: <br> 
