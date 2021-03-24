@@ -12,7 +12,7 @@ Previous education: Completion of VCE (Year 12) at Glen Waverley Secondary Colle
 
 Languages spoken (ranked from most to least): English, Chinese and German
 
-One fun fact about myself: Apart from IT, I also have an active interest in reading the history of Central and Eastern Europe from 1500s, as reflected by my GitHub username, Transcarpathia, which is a region in western Ukraine, formerly part of Austria-Hungary before WWI, and Poland before WWII.
+One fun fact about myself: Apart from IT, I also have an active interest in reading the history of Central and Eastern Europe from 1500s, as reflected by my GitHub username, Transcarpathia, which is a region in western Ukraine, formerly part of Austria-Hungary before WWI, and Czechoslovakia before WWII.
 
 Github profile: https://github.com/transcarpathia
 
