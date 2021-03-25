@@ -50,7 +50,7 @@ The skills involved includes tertiary degree in cybersecurity or equivalent, wor
 
 ## Personality test
 
-[Image](Screen Shot 2021-03-25 at 5.05.03 pm.png)
+![Image](Screen Shot 2021-03-25 at 5.05.03 pm.PNG)
 
 
 # Header 1
