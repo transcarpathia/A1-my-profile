@@ -52,6 +52,13 @@ The skills involved includes tertiary degree in cybersecurity or equivalent, wor
 
 [Image](Screen Shot 2021-03-25 at 5.05.03 pm.png)
 
+I have completed 3 personality tests, all of them as a tool for others to gain a deeper understanding of myself. They are:
+
+1. Myers-Briggs test;
+2. Learning style test; and
+3. Big Five personality test.
+
+
 
 # Header 1
 ## Header 2
