@@ -58,6 +58,10 @@ I have completed 3 personality tests, all of them as a tool for others to gain a
 2. Learning style test; and
 3. Big Five personality test.
 
+The series of test results has suggested that I am a debater (Myers-Briggs); a visual learner (Learning Style); and more conservative in life experiences (Big Five). Those tests has closely reflected my life experiences to this point, for example, while I am open to working with a team and lead the team in group projects when necessary, however, I also learn better in an environment without distractions (such as a quiet room). When forming a team, I will definitely have to take take both aspects into account, 
+
+## Project Idea
+
 
 
 # Header 1
