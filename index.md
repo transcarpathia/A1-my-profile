@@ -62,20 +62,52 @@ The series of test results has suggested that I am a debater (Myers-Briggs); a v
 
 ## Project Idea
 
-![Image](parking1.JPG) ![Image](parking2.JPG)
+**Overview**
 
-# Header 1
-## Header 2
-### Header 3
+This project idea is designed to make city parking easier. With tens of thousands coming into Melbourne CBD by car every day, most of them for important business, now they will need a place to park their cars. This mobile app is designed for users to compare prices for each carpark, and allows them to book for a designated spot at any place, so they can save their previous time and not waste it on parking. This app is designed to work on both iOS and Android platform, which means it can be reached by most mobile phone users.
 
-- Bulleted
-- List
+**Motivation**
 
-1. Numbered
-2. List
+Finding a car parking space, especially in CBDs of every capital city, can be tough job. Sometimes finding a parking spot not just wastes precious time, but also extra money when you need to enter paid carparks, and left with a big disappointment. Now, it will be a great idea to gather inspiration from restaurant booking apps (since you can book thousands of restaurants in just one platform) and airline apps (choose your seat before flight), apply those inspiration in parking apps, by allowing users to directly book a single parking spot for the hours they desire, at any of the participating carparks.
 
-**Bold** and _Italic_ and `Code` text
+**Description**
 
-### Jekyll Themes
+This app will serve as a third-party aggregator for CBD parking (the facilities itself will still be operated by its original owners), allowing its users to save time and money on their CBD parking, find a space on the go, and even pre-book to secure it. From the start to end, it involves the following steps:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/transcarpathia/A1-my-profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Find spaces – Before you can park your car, find the carpark. There are hundreds of privately-owned carparks in Melbourne CBD alone, plus many more street side ones operated by the council. This app will reflect both on the map, giving customers more choices according to their needs.
+
+Spaces available – there are many paid carparks (our main partner) that have installed real time parking info for motorists, however, they are restricted to overhead display only. This app would allow users to check that information on their mobile phones instead, a much more convenient choice. 
+
+Compare prices – The app will reflect the real time price for parking for every available carpark (including council-run street side parking), which can be adjusted anytime based on time of the day, weekday or weekend, as well as demands. Users can lock in the current price for maximum 3 hours before arrival, which may translate into savings for them.
+
+![Image](parking1.JPG) 
+
+_Compare prices for each available carpark, open and transparent_
+
+Booking – the most important aspect. Traditional parking booking systems only allows users to book their desired time, but not a spot. This creates a problem of some motorists being forced to leave the premises due to lack of spaces. With this app, users can lock in their desired spot in advance, allowing them to proceed directly to their pre-booked space instead of driving around to find an available space. The spot will be locked in for 30 minutes after expected arrival time, after then, the user forfeits his/her space and it can be re-allocated. (only available in selected locations)
+
+![Image](parking2.JPG) 
+
+_Book a designated spot with this app_
+
+(Any vehicles that occupies a pre-booked space will trigger an alert as well as a fine determined by operator. This is a third-party platform who does not interfere in carpark management.)
+
+Payment – A page for user to pay for their spot directly on the phone. It can be links to secure mobile payment platforms like Apple Pay and Google Pay, or with other traditional payment methods such as entering credit card. All will be processed securely with enhanced features like Mastercard secure code to minimise any possible security defects. Funds will then be transferred to their respective service provider. Any extra charges/penalties will be dealt directly with the operator.
+
+Go to destination – Working closely with mapping service, such as Google Maps, to embed the location of each available carparks accurately, allows users to transfer the location data to mapping software with a tap.
+
+Extra services – alongside parking, this app can also allow users to pay to book extra services such as car wash on their phone, should users need their car to be cleaned while they’re out for business or leisure. Further integration with other car services may be introduced at a later time.
+
+**Tools and Technologies**
+
+As this software is designed to work across multiple platforms, primarily iOS and Android (which is used by 90% or more Australian mobile phone users combined), a unified coding platform, such as JavaScript, will be a good solution that can reduce the development time, as opposed to writing native codes for both on XCode/Swift (iOS) and Java (Android), though, it comes at the cost of unable to natively integrate this app to either platform. In hardware terms, however, in addition to computers needed for coding, carparks also have to take its load management system online for data to be transmitted onto the phone.
+
+**Skills Required**
+
+This is a grand project to transform city parking, which means many upgrades are necessary apart from the IT team responsible for coding the apps. As mentioned before, current management systems will have to be re-wired and re-coded for internet connectivity, or in some cases, re-installed (mostly older ones). While App writing is an easy process practiced by many developers at this age, physical installation work in carpark facilities will be a challenge, given a large number, upwards of several hundreds, of internet technicians will be required to carry out the work.
+
+In terms of feasibility, while the upfront cost can be high, the costs can be recouped in up to 3 years through increased parking fees and increased carpark usage.
+
+**Outcome**
+
+If successful, this will transform how we park our car in the city, a necessity for many business commuters, and many others who come for entertainment, shopping, dining and education who cannot rely on public transport. Users can get more things done with a simple tap than ever before, even get their cars washed while they are out and about. For parking operators, they will also benefit from increased usage, given some users’ preference would lead them away from parking websites due to its outdated, web only interface. 
