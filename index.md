@@ -38,7 +38,7 @@ RMIT offers an industry-ready experience for every student, especially in IT, wh
 
 **What do you expect to learn during your studies?**
 
-I have always expected to learn advanced coding, in order to create a relatively complex. But also cyber security to fend off malign actors' attacks on valuable internet properties, such as financial tranactions and private data.
+I have always expected to learn advanced coding, in order to create a relatively complex. But also, cyber security to fend off malign actors' attacks on valuable internet properties, such as financial tranactions and private data.
 
 ## Ideal job
 
@@ -52,13 +52,15 @@ The skills involved includes tertiary degree in cybersecurity or equivalent, wor
 
 ![Image](personality.JPG)
 
-I have completed 3 personality tests, all of them as a tool for others to gain a deeper understanding of myself. They are:
+I have completed 3 personality tests, for other people to gain a clearer understanding of my personality. They are:
 
 1. Myers-Briggs test;
 2. Learning style test; and
 3. Big Five personality test.
 
-The series of test results has suggested that I am a debater (Myers-Briggs); a visual learner (Learning Style); and more conservative in life experiences (Big Five). Those tests has closely reflected my life experiences to this point, for example, while I am open to working with a team and lead the team in group projects when necessary, however, I also learn better in an environment without distractions (such as a quiet room). When forming a team, I will definitely have to take take both aspects into account, 
+The series of test results has suggested that I am a debater (Myers-Briggs); a visual learner (Learning Style); and more conservative in life experiences (Big Five). Those tests have closely reflected my life experiences to this point, for example, while I am open to working with a team and lead the team in group projects when necessary, however, I also learn better in an environment without distractions (such as a quiet room).
+
+When it comes for forming a team, sharing experiences and making compromise amongst each other will be much appreciated. I do not prefer unilaterally imposing an idea into the project without thorough discussion or consultation. In the mean time, I also like to gather ideas myself (since it creates the best environment for brainstorming) and then share the idea with other members in a group session.
 
 ## Project Idea
 
